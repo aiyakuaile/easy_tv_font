@@ -41,4 +41,10 @@
         "font_key": "yahei",
         "font_type": "ttf"
     }
+    {
+        "id": "7",
+        "font_name": "汉仪正圆",
+        "font_key": "HYZY",
+        "font_type": "ttf"
+    }
 ]
